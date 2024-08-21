@@ -25,7 +25,7 @@ def set_bg_hack(main_bg):
 st.set_page_config(page_title="FastAdjust: Empower Disaster Victims", layout="wide")
 
 # Set background image
-set_bg_hack('path/to/your/background_image.jpg')  # Replace with your image path
+set_bg_hack('/Users/vladimirdeziegler/Downloads/backgroundfire.jpg')  # Replace with your image path
 
 # Custom CSS
 st.markdown("""
